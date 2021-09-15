@@ -8,10 +8,10 @@
 <h2 style = "margin-top : 50px"> Compétences :</h2>
 
 
-<img src= "img/html.png" style ="height:100px; margin:10px 10px 0 0;"></img>
-<img src= "img/css.png" style ="height : 100px; margin: 10px 10px 0 0;"></img>
-<img src= "img/js.png" style ="height : 100px; margin: 10px 10px 0 0;"></img>
-<img src= "img/php.png" style ="height : 100px; margin: 10px 10px 0 0;"></img>
+<img src= "img/html.png" style ="height:100px; margin:10px 20px 0 0;"></img>
+<img src= "img/css.png" style ="height : 100px; margin: 10px 20px 0 0;"></img>
+<img src= "img/js.png" style ="height : 100px; margin: 10px 20px 0 0;"></img>
+<img src= "img/php.png" style ="height : 100px; margin: 10px 20px 0 0;"></img>
 
 <h2 style="margin-top: 100px">Contacts :</h2>
 <a href="https://www.linkedin.com/in/william-rodriguez-6588b1207/"><img src= "img/linkedin.png" style ="height : 100px; margin-top:10px;"></img></a>
