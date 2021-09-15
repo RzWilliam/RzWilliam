@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+![Hello](img/hello.gif)
 
 <!--
 **RzWilliam/RzWilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
