@@ -1,10 +1,12 @@
-<p style = "text-align = center; width = 100%;"><img src = "img/hello.gif"></img></p>
+<div style = "display: flex; justify-content: center;"><img src = "img/hello.gif" style = "width: 200px "></img></div>
 
-# Je m'appelle William Rodriguez
+<h1 style = "text-align: center; margin-top: 25px"> Hello there, je suis William Rodriguez</h1>
+
+<h2 style = "text-align: center"> Je suis actuellement étudiant à l'IIM</h2>
 
 ## Je suis actuellement étudiant à l'IIM
 
-### Compétences:
+# Compétences:
 
 <img src= "img/html.png" style = "height : 100px; margin: 10px 10px 0 0"></img>
 <img src= "img/css.png" style = "height : 100px; margin: 10px 10px 0 0"></img>
