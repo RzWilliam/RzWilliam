@@ -1,6 +1,8 @@
-![Hello](img/hello.gif)
+<img style = "display = block; justify-content: center;">![Hello](img/hello.gif)</img>
 
-###My name is William, currently a student at IIM :books:
+<p style = "color = blue;"> Je m'appelle William Rodriguez</p>
+
+#### Je suis actuellement étudiant à l'IIM
 
 <!--
 **RzWilliam/RzWilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
