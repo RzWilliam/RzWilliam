@@ -1,8 +1,15 @@
-<img style = "display = block; justify-content: center;">![Hello](img/hello.gif)</img>
+<p style = "text-align = center; width = 100%;"><img src = "img/hello.gif"></img></p>
 
-<p style = "color = blue;"> Je m'appelle William Rodriguez</p>
+# Je m'appelle William Rodriguez
 
-#### Je suis actuellement étudiant à l'IIM
+## Je suis actuellement étudiant à l'IIM
+
+### Compétences:
+
+<img src= "img/html.png" style = "height : 100px; margin: 10px 10px 0 0"></img>
+<img src= "img/css.png" style = "height : 100px; margin: 10px 10px 0 0"></img>
+<img src= "img/js.png" style = "height : 100px; margin: 10px 10px 0 0"></img>
+<img src= "img/php.png" style = "height : 100px; margin: 10px 10px 0 0"></img>
 
 <!--
 **RzWilliam/RzWilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
