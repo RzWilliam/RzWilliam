@@ -4,9 +4,9 @@
 
 <h2 style = "text-align: center"> Je suis actuellement étudiant à l'IIM</h2>
 
-## Je suis actuellement étudiant à l'IIM
 
-# Compétences:
+<h2 style = "margin-top : 50px"> Compétences :</h2>
+
 
 <img src= "img/html.png" style = "height : 100px; margin: 10px 10px 0 0"></img>
 <img src= "img/css.png" style = "height : 100px; margin: 10px 10px 0 0"></img>
