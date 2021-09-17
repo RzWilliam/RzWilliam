@@ -1,4 +1,4 @@
-<div style = "display: flex; justify-content: center;"><img src = "img/hello.gif" style ="width:200px;"></img></div>
+<div align="center"><img src = "img/hello.gif" style ="width:200px;"></img></div>
 
 <h1 style ="text-align;center; margin-top:25px;"> Hello there, je suis William Rodriguez</h1>
 
