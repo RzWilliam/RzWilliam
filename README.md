@@ -1,4 +1,4 @@
-<div align="center"><img src = "img/hello.gif" style ="width:200px;"></img></div>
+<div align="center"><img src = ".img/hello.gif" style ="width:200px;"></img></div>
 
 <h1 align="center"> Hello there, je suis William Rodriguez</h1>
 
@@ -8,13 +8,13 @@
 <h2 style = "margin-top : 50px"> Compétences :</h2>
 
 
-<img src= "img/html.png" style ="height:100px; margin:20px 20px 0 0;"></img>
-<img src= "img/css.png" style ="height : 100px; margin: 20px 20px 0 0;"></img>
-<img src= "img/js.png" style ="height : 100px; margin: 20px 20px 0 0;"></img>
-<img src= "img/php.png" style ="height : 100px; margin: 20px 20px 0 0;"></img>
+<img src= ".img/html.png" style ="height:100px; margin:20px 20px 0 0;"></img>
+<img src= ".img/css.png" style ="height : 100px; margin: 20px 20px 0 0;"></img>
+<img src= ".img/js.png" style ="height : 100px; margin: 20px 20px 0 0;"></img>
+<img src= ".img/php.png" style ="height : 100px; margin: 20px 20px 0 0;"></img>
 
 <h2 style="margin-top: 100px">Contacts :</h2>
-<a href="https://www.linkedin.com/in/william-rodriguez-6588b1207/"><img src= "img/linkedin.png" style ="height : 100px; margin-top:20px;"></img></a>
+<a href="https://www.linkedin.com/in/william-rodriguez-6588b1207/"><img src= ".img/linkedin.png" style ="height : 100px; margin-top:20px;"></img></a>
 
 <!--
 **RzWilliam/RzWilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
