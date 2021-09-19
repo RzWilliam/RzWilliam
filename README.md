@@ -1,8 +1,14 @@
 <div align="center"><img src = ".img/hello.gif" style ="width:200px;"></img></div>
 
-<h1 align="center"> Hello there, je suis William Rodriguez</h1>
+<h1 align="center">Salut, je suis William Rodriguez</h1>
 
-<h2 align="center"> Je suis actuellement étudiant à l'IIM</h2>
+<br>
+<br>
+
+<h2>À propos de moi :</h2>
+<br>
+
+### - :mortar_board: Je suis étudiant à l'**IIM** 
 
 
 <h2 style = "margin-top : 50px"> Compétences :</h2>
