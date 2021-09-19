@@ -3,24 +3,26 @@
 <h1 align="center">Salut, je suis William Rodriguez</h1>
 
 <br>
-<br>
 
 <h2>À propos de moi :</h2>
-<br>
 
 ### - :mortar_board: Je suis étudiant à l'**IIM** 
+### - :computer: Dans l'axe **Développement Web**
+### - :books: J'aime lire des **Mangas**
+### - :clapper: J'aime regarder des **Animes**
 
 
 <h2 style = "margin-top : 50px"> Compétences :</h2>
+<br>
 
-
-<img src= ".img/html.png" style ="height:100px; margin:20px 20px 0 0;"></img>
-<img src= ".img/css.png" style ="height : 100px; margin: 20px 20px 0 0;"></img>
-<img src= ".img/js.png" style ="height : 100px; margin: 20px 20px 0 0;"></img>
-<img src= ".img/php.png" style ="height : 100px; margin: 20px 20px 0 0;"></img>
+<img src= ".img/html.png" style ="height:80px; margin: 0 20px 0 0;"></img>
+<img src= ".img/css.png" style ="height : 80px; margin: 0 20px 0 0;"></img>
+<img src= ".img/js.png" style ="height : 80px; margin: 0 20px 0 0;"></img>
+<img src= ".img/php.png" style ="height : 80px; margin: 0 20px 0 0;"></img>
 
 <h2 style="margin-top: 100px">Contacts :</h2>
-<a href="https://www.linkedin.com/in/william-rodriguez-6588b1207/"><img src= ".img/linkedin.png" style ="height : 100px; margin-top:20px;"></img></a>
+<br>
+<a href="https://www.linkedin.com/in/william-rodriguez-6588b1207/"><img src= ".img/linkedin.png" style ="height : 80px;"></img></a>
 
 <!--
 **RzWilliam/RzWilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
