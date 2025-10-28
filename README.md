@@ -82,8 +82,8 @@ Daily Yu-Gi-Oh! card guessing game inspired by Wordle. Each day, players must gu
 ## 📊 Statistics
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=RzWilliam&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RzWilliam&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RzWilliam&theme=radical" height="200"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=RzWilliam&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" height="200"/> -->
 </div>
 
 ---
