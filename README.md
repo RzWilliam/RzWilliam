@@ -42,11 +42,11 @@ Passionate web developer with a love for creation and technology, I transform id
 
 ## 🎯 Featured Projects
 
-### <img src="https://raw.githubusercontent.com/RzWilliam/Portfolio_2025/main/src/assets/logos/mantrack.webp" width="24" height="24" style="vertical-align: middle;"> [Mantrack](https://www.mantrack.app/)
+### <img src="https://raw.githubusercontent.com/RzWilliam/Portfolio_2025/main/src/assets/logos/mantrack.webp?v=2026" width="24" height="24" style="vertical-align: middle;"> [Mantrack](https://www.mantrack.app/)
 
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/RzWilliam/Portfolio_2025/main/src/assets/projects/mantrack.webp" alt="Mantrack Preview" width="600">
+<img src="https://raw.githubusercontent.com/RzWilliam/Portfolio_2025/main/src/assets/projects/mantrack.webp?v=2026" alt="Mantrack Preview" width="600">
 </div>
 <br>
 
@@ -61,14 +61,35 @@ Platform that allows you to track your manga, manhwa and manhua readings. Users 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/RzWilliam/Portfolio_2025/main/src/assets/logos/ygodle.webp" width="24" height="24" style="vertical-align: middle;"> [YGOdle](https://www.ygodle.net)
+### <img src="https://raw.githubusercontent.com/RzWilliam/Portfolio_2025/main/src/assets/logos/kiro.webp?v=2026" width="24" height="24" style="vertical-align: middle;"> [Kiro](https://www.kirogames.net/)
+
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/RzWilliam/Portfolio_2025/main/src/assets/projects/ygodle.webp" alt="YGOdle Preview" width="500px">
+<img src="https://raw.githubusercontent.com/RzWilliam/Portfolio_2025/main/src/assets/projects/kiro.webp?v=2026" alt="Kiro Preview" width="600">
 </div>
 <br>
 
-Daily Yu-Gi-Oh! card guessing game inspired by Wordle. Each day, players must guess a Yu-Gi-Oh! card in a limited number of tries, based on clues like attribute, type, attack, defense or archetype.
+Real-time multiplayer gaming platform where players create or join a room and challenge their friends on 8 classic and original games: Tic Tac Toe, Connect Four, Memory, Skyto, Lovelle, Ludo, Walls and Pig. You can jump in as a guest or create an account to track your stats, customize your profile and keep your progression across games.
+
+**Stack** :
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### <img src="https://raw.githubusercontent.com/RzWilliam/Portfolio_2025/main/src/assets/logos/ygodle.webp?v=2026" width="24" height="24" style="vertical-align: middle;"> [YGOdle](https://www.ygodle.net)
+<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/RzWilliam/Portfolio_2025/main/src/assets/projects/ygodle.webp?v=2026" alt="YGOdle Preview" width="600">
+</div>
+<br>
+
+Daily Yu-Gi-Oh! card guessing game inspired by Wordle, with three game modes: Monsters, Spells and Traps. Each day, players must guess the card of the day in a limited number of tries, based on clues like attribute, type, attack, defense or archetype.
 
 **Stack** :
 
